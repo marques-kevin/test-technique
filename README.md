@@ -3,12 +3,19 @@
 `yarn install`
 
 Synchronisation des données Wordpress
+
 `yarn wordpress`
 
 Lancement du serveur et tout est bon
+
 `yarn start`
 
+Vous pouvez aussi accéder au mode preview.
+
+`http://localhost:8000/preview/?slug=nimporte-lequel`
+
 Vous voulez tester le build avec +2000 pages dans Wordpress ?
+
 `yarn build`
 
 ## Documents du test technique
@@ -20,4 +27,4 @@ Les documents détaillant les choix et analyses du projet sont disponibles dans 
 - [3. Pourquoi Gatsby](documents/3.pourquoi-gatsby.md)
 - [4. Le mode preview](documents/4.le-mode-preview.md)
 - [5. Choix techniques](documents/5.choix-techniques.md)
-- [6. Remarques](documents/6.'remarques.md)
+- [6. Remarques](documents/6.remarques.md)
