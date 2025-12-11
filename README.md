@@ -18,6 +18,10 @@ Vous voulez tester le build avec +2000 pages dans Wordpress ?
 
 `yarn build`
 
+Le site est important et doit bénéficier de tests. J'en ai écris quelques-uns
+
+`yarn test`
+
 ## Documents du test technique
 
 Les documents détaillant les choix et analyses du projet sont disponibles dans le dossier `documents` :
